@@ -17,7 +17,10 @@ Inputs {.sidebar}
 
 ### Example project
 
-Some text about the project
+Some text about the project.
+
+[Here is an example of a flexdashboard showcasing different kinds of visualizations in a "storyboard layout".](
+https://beta.rstudioconnect.com/jjallaire/htmlwidgets-showcase-storyboard/htmlwidgets-showcase-storyboard.html)
 
 Row
 -------------------------------------
