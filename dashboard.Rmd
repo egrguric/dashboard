@@ -1,7 +1,5 @@
 ---
 title: "HTML Widgets Showcase"
-params: 
-  filename: "music.csv"
 knit: (function(input_file, encoding) {
   out_dir <- 'docs';
   rmarkdown::render(input_file,
